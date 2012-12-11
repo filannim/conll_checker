@@ -3,13 +3,13 @@
 # Copyright 2012 Michele Filannino
 #  
 # gnTEAM, School of Computer Science, University of Manchester.
-#	All rights reserved. This program and the accompanying materials
-#	are made available under the terms of the GNU General Public License.
+# All rights reserved. This program and the accompanying materials
+# are made available under the terms of the GNU General Public License.
 #	
-#	authors: Michele Filannino
-#	email:  filannim@cs.man.ac.uk
+# authors: Michele Filannino
+# email:  filannim@cs.man.ac.uk
 #		
-#	For details, see http://www.cs.man.ac.uk/~filannim/
+# For details, see http://www.cs.man.ac.uk/~filannim/
 
 import re
 import sys
