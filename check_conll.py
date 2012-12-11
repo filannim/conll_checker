@@ -1,8 +1,8 @@
 #!/usr/bin/python
 #
-#  Copyright 2012 Michele Filannino
-#	
-#	gnTEAM, School of Computer Science, University of Manchester.
+# Copyright 2012 Michele Filannino
+#  
+# gnTEAM, School of Computer Science, University of Manchester.
 #	All rights reserved. This program and the accompanying materials
 #	are made available under the terms of the GNU General Public License.
 #	
