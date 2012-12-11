@@ -9,7 +9,7 @@
 #	authors: Michele Filannino
 #	email:  filannim@cs.man.ac.uk
 #		
-#	For details, see www.cs.man.ac.uk/~filannim/
+#	For details, see http://www.cs.man.ac.uk/~filannim/
 
 import re
 import sys
